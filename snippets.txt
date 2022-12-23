@@ -1,0 +1,3 @@
+# Git push and pull to allow unrelate histories
+git pull [remote] [branch] --allow-unrelated-histories
+git push -u [remote] [branch]
